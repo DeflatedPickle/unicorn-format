@@ -3,7 +3,7 @@ An unofficial format for Magic the Gathering.
 
 ### Table of Contents
 - [Basic Rules](#basic-rules)
-- [Lands Types](#land-types)
+- [Land Types](#land-types)
 - [Creature Types](#creature-types)
 
 ## Basic Rules
